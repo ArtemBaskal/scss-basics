@@ -21,6 +21,6 @@
     "autoprefixer": "^9.6.1",
     "concat": "^1.0.3",
     "gh-pages": "^2.1.1",
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   }
 }
